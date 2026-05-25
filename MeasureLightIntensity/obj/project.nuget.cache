@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dayJNrY+tY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flori\\source\\repos\\MeasureLightIntensity\\MeasureLightIntensity\\MeasureLightIntensity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flori\\.nuget\\packages\\opencvsharp4\\4.13.0.20260427\\opencvsharp4.4.13.0.20260427.nupkg.sha512",
+    "C:\\Users\\flori\\.nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20260302\\opencvsharp4.runtime.win.4.13.0.20260302.nupkg.sha512",
+    "C:\\Users\\flori\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\flori\\.nuget\\packages\\winforms.datavisualization\\1.10.2\\winforms.datavisualization.1.10.2.nupkg.sha512"
+  ],
+  "logs": []
+}
