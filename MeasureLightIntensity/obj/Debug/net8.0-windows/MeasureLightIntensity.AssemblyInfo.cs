@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeasureLightIntensity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9165f609317c9db93dddd399f983172211648eb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeasureLightIntensity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeasureLightIntensity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

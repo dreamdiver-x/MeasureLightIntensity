@@ -1,5 +1,4 @@
 C:\Users\flori\source\repos\MeasureLightIntensity\MeasureLightIntensity\obj\Debug\net8.0-windows\MeasureLightIntensity.csproj.AssemblyReference.cache
-C:\Users\flori\source\repos\MeasureLightIntensity\MeasureLightIntensity\obj\Debug\net8.0-windows\MeasureLightIntensity.MainForm.resources
 C:\Users\flori\source\repos\MeasureLightIntensity\MeasureLightIntensity\obj\Debug\net8.0-windows\MeasureLightIntensity.csproj.GenerateResource.cache
 C:\Users\flori\source\repos\MeasureLightIntensity\MeasureLightIntensity\obj\Debug\net8.0-windows\MeasureLightIntensity.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\flori\source\repos\MeasureLightIntensity\MeasureLightIntensity\obj\Debug\net8.0-windows\MeasureLightIntensity.AssemblyInfoInputs.cache
@@ -22,3 +21,5 @@ C:\Users\flori\source\repos\MeasureLightIntensity\MeasureLightIntensity\obj\Debu
 C:\Users\flori\source\repos\MeasureLightIntensity\MeasureLightIntensity\bin\Debug\net8.0-windows\MeasureLightIntensity.dll.config
 C:\Users\flori\source\repos\MeasureLightIntensity\MeasureLightIntensity\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
 C:\Users\flori\source\repos\MeasureLightIntensity\MeasureLightIntensity\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4130_64.dll
+C:\Users\flori\source\repos\MeasureLightIntensity\MeasureLightIntensity\obj\Debug\net8.0-windows\MeasureLightIntensity.AppSettings.resources
+C:\Users\flori\source\repos\MeasureLightIntensity\MeasureLightIntensity\obj\Debug\net8.0-windows\MeasureLightIntensity.sourcelink.json
